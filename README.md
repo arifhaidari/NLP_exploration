@@ -21,3 +21,11 @@ intro the tools and methods
 Semantic and sentiment analysis
 VADER for the sentiment analysis
 Topic Modeling
+LDA
+NMF
+
+NMF is faster than LDA and can deal with larger dataset
+
+projects:
+find the topic of the article using LDA
+quora quetions labeling using NMF
