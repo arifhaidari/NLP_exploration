@@ -33,6 +33,10 @@ NMF is faster than LDA and can deal with larger dataset
 
 projects:
 find the topic of the article using LDA
+
 quora quetions labeling using NMF
+
 word or next sentence prediction
-a chat bot using the babi dataset from facebook
+
+a chat bot using the babi dataset from facebook (the project will be based on end to end memory network)
+a paper published by Sainbayer Sukhtbaatar Arthur Szlam and Jason westorn and Rob Fergus
