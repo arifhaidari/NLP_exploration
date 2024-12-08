@@ -23,9 +23,16 @@ VADER for the sentiment analysis
 Topic Modeling
 LDA
 NMF
+Deep Learning for NLP
+LSTM and RNN
+QA chat
+Artifical neural network (ANN)
+LSTM and GRU
 
 NMF is faster than LDA and can deal with larger dataset
 
 projects:
 find the topic of the article using LDA
 quora quetions labeling using NMF
+word or next sentence prediction
+a chat bot using the babi dataset from facebook
