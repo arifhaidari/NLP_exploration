@@ -44,3 +44,5 @@ https://papers.nips.cc/paper_files/paper/2015/hash/8fb21ee7a2207526da55a679f0332
 
 some of online materials that I have gone through:
 https://medium.com/@shandeep92/countvectorizer-vs-tfidfvectorizer-cf62d0a54fa4
+
+Gensim is an open-source natural language processing (NLP) library in Python whose aim is to make topic modeling as accessible and efficient as possible. First, it's important to understand what topic modeling is
