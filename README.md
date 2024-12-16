@@ -39,4 +39,5 @@ quora quetions labeling using NMF
 word or next sentence prediction
 
 a chat bot using the babi dataset from facebook (the project will be based on end to end memory network)
-a paper published by Sainbayer Sukhtbaatar Arthur Szlam and Jason westorn and Rob Fergus
+a paper published by Sainbayer Sukhtbaatar Arthur Szlam and Jason westorn and Rob Fergus which called end to end memory network and the link is below:
+https://papers.nips.cc/paper_files/paper/2015/hash/8fb21ee7a2207526da55a679f0332de2-Abstract.html
