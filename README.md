@@ -1,4 +1,4 @@
-# Natural Language Processing (Exploration) - Under Development
+# Natural Language Processing (Exploration)
 
 This project is an exploration into the various aspects of **Natural Language Processing (NLP)**. The aim is to build a portfolio of experiments and learning exercises that serve as references for later review. Throughout this project, I will explore the key techniques and tools used in NLP, from basic string methods to advanced deep learning models for natural language understanding.
 
